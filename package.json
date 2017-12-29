@@ -1,15 +1,19 @@
 {
-  "name": "electron-forge-template-react-typescript",
-  "version": "1.0.6",
-  "description": "Basic React + Typescript Electron starter application",
+  "name": "electron-forge-template-3rt",
+  "version": "0.1.0",
+  "description": "Basic React + React Router + Redux + Typescript Electron starter application",
   "main": "index.js",
   "keywords": [
     "react",
     "typescript",
     "electron",
     "forge",
-    "starter"
+    "starter",
+    "redux",
+    "react-redux",
+    "react-router",
+    "react-router-redux"
   ],
-  "author": "Electron Userland",
+  "author": "zyuyou",
   "license": "MIT"
 }
